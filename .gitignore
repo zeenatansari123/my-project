@@ -1,0 +1,10 @@
+# .NET
+bin/
+obj/
+
+# Config
+appsettings.json
+.env
+
+# Logs
+*.log 
